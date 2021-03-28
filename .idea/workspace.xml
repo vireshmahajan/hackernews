@@ -17,7 +17,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27ef95a3-c50c-4fda-9c79-f8d0b13878a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/components/ItemDetailsComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/components/ItemDetailsComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616870494831</updated>
       <workItem from="1616870495950" duration="2299000" />
-      <workItem from="1616872857270" duration="40852000" />
+      <workItem from="1616872857270" duration="49317000" />
     </task>
     <servers />
   </component>
@@ -99,10 +99,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="597" y="288" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616872462905">
+    <state x="597" y="288" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616972955878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="597" y="288" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1616872462905" />
+    <state x="597" y="288" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1616972955878" />
     <state x="336" y="77" key="SettingsEditor" timestamp="1616875855641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -119,9 +119,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="532" y="237" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1616941894125" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1616955686608">
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1616966383763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1616955686608" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1616966383763" />
   </component>
 </project>
